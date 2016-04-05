@@ -1,6 +1,6 @@
 //
 //  ImageCell.h
-//  CollicationView
+//  CollecationView
 //
 //  Created by JingQL on 15/9/11.
 //  Copyright (c) 2015年 JingQL. All rights reserved.

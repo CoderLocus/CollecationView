@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "7A32007365A982FE776F1F31C375A998E2816479",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "7A32007365A982FE776F1F31C375A998E2816479" : 0,
+    "6BC8052B38D8D0D79DF3674F241BC2671D2F78A3" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "931EB239-C873-4C47-8534-9DC08BA3DD3E",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "7A32007365A982FE776F1F31C375A998E2816479" : "CollecationView\/",
+    "6BC8052B38D8D0D79DF3674F241BC2671D2F78A3" : ".."
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "CollectionView",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "CollectionView\/CollectionView.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/git.ippjr-inc.com\/scm\/platform\/platform-member-ios.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6BC8052B38D8D0D79DF3674F241BC2671D2F78A3"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/jql772386689\/CollecationView.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "7A32007365A982FE776F1F31C375A998E2816479"
+    }
+  ]
+}
